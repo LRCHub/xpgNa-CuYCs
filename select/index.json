@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "PIKASONIC - Creed",
+  "base_artist": "PIKASONIC Release",
+  "createdAt": "2026-03-19T06:42:10.243801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PIKASONIC & Tatsunoshin - Lockdown (ft.NEONA) [KOTONOHOUSE Remix]",
+      "artist": "KOTONOHOUSE",
+      "has_synced": true,
+      "path": "select/01_PIKASONIC_&_Tatsunoshin_-_Lockdown_(ft.NEONA)_[KOTONOHOUSE_Remix]_KOTONOHOUSE.lrc"
+    }
+  ]
+}
